@@ -16,6 +16,7 @@ cli client. That client will eventually move here too.
 - Full unit-test coverage.
 
 
+
 - Go tools compliant (`go get`, `go test`, etc.). It needs to be vendorable
   somewhere else.
 
