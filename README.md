@@ -7,7 +7,8 @@
 The `k8s.io/kubectl` repo is used to track issues for the kubectl cli distributed
 with `k8s.io/kubernetes`. It also contains packages intended for use by client
 programs. E.g. these packages are vendored into `k8s.io/kubernetes` for use in
-the [kubectl](https://github.com/kubernetes/kubernetes/tree/master/cmd/kubectl)
+the [kubectl](https://github
+.com/kubernetes/kubernetes/tree/master/cmd/kubectl)
 cli client. That client will eventually move here too.
 
 ## Contribution Requirements
